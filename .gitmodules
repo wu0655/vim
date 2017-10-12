@@ -1,0 +1,18 @@
+[submodule "bundle/cscope"]
+	path = bundle/cscope
+	url = git@github.com:vim-scripts/cscope.vim.git
+[submodule "bundle/vim-colors"]
+	path = bundle/vim-colors
+	url = git@github.com:altercation/vim-colors-solarized.git
+[submodule "bundle/vim-colors-solarized"]
+	path = bundle/vim-colors-solarized
+	url = git@github.com:altercation/vim-colors-solarized.git
+[submodule "bundle/vim-colors-molokai"]
+	path = bundle/vim-colors-molokai
+	url = git@github.com:tomasr/molokai.git
+[submodule "bundle/tagbar"]
+	path = bundle/tagbar
+	url = git@github.com:majutsushi/tagbar.git
+[submodule "bundle/nerdtree"]
+	path = bundle/nerdtree
+	url = git@github.com:scrooloose/nerdtree.git

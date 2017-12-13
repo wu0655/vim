@@ -1,0 +1,1 @@
+nm -A -a -l -n $1 | grep -v '\( [aNUw] \)\|\(__crc_\)\|\( \$[adt]\)' > $1.map

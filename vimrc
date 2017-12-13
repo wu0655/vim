@@ -4,6 +4,7 @@ syntax on
 filetype plugin indent on
 
 source ~/.vim/bundle/cscope/plugin/cscope.vim
+source ~/.vim/bundle/cscope_maps-master/plugin/cscope_maps.vim
 
 set background=dark
 "colorscheme solarized
